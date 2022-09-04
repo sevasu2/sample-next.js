@@ -4,5 +4,5 @@ import styles from "../styles/Home.module.css";
 import Hero from "../components/hero";
 
 export default function About() {
-  return <Hero title="About" subtitle="sAbout development activities" />;
+  return <Hero title="About" subtitle="About development activities" />;
 }
